@@ -2,7 +2,7 @@
 [build]
   command = "N/A"
   functions = "netlify/functions"
-  publish = "N/A"
+  publish = "public"
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
